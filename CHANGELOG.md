@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/nik1168/auto-changelog/compare/v1.1.1...v1.1.2) (2021-07-30)
+
+
+### Bug Fixes
+
+* fixed major bug ([e1aaaac](https://github.com/nik1168/auto-changelog/commit/e1aaaacf50a879767aa9d836a8088df913442004))
+
 ### [1.1.1](https://github.com/nik1168/auto-changelog/compare/v1.1.0...v1.1.1) (2021-07-30)
 
 
