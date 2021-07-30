@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/nik1168/auto-changelog/compare/v1.1.0...v1.1.1) (2021-07-30)
+
+
+### Bug Fixes
+
+* adjust misaligned layout ([62168b4](https://github.com/nik1168/auto-changelog/commit/62168b480c2d987eb4f90f3cfb38007753144620))
+
 ## 1.1.0 (2021-07-30)
 
 
