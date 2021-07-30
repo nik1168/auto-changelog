@@ -1,0 +1,8 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nik1168/auto-changelog.git",
+  "author": "ngeisser <ngeisser@tetradefense.com>",
+  "license": "MIT"
+}
